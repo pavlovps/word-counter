@@ -6,4 +6,4 @@ For using with .net core run
 ```
 dotnet run -s <fileName> -w <wordToCount>
 ```
-wasn't ever seen by someone experienced.
+Wasn't ever seen by someone experienced.
